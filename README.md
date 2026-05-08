@@ -9,8 +9,9 @@
    ```
 
 2. To test app on the phone:
-   - Install Expo Go app from App Store or Play Store
-     If the phone and the computer are on the same network:
+   Install Expo Go app from App Store or Play Store
+   
+   If the phone and the computer are on the same network:
 
    ```bash
    npx expo start
