@@ -2,7 +2,11 @@
 
 ## Get started
 
-1. Install dependencies
+1. Setup frontend:
+
+   ```bash
+   cd ./frontend
+   ```
 
    ```bash
    npm install
@@ -10,8 +14,10 @@
 
 2. To test app on the phone:
 
+   (Still in the frontend folder)
+
    Install Expo Go app from App Store or Play Store
-   
+
    If the phone and the computer are on the same network:
 
    ```bash
@@ -31,3 +37,11 @@
    ```bash
    npx expo start --tunnel
    ```
+
+3. Start backend server:
+
+   ```bash
+   cd ../backend
+   ```
+
+   TODO: Update instructions for server setup.
